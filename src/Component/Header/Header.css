@@ -1,0 +1,104 @@
+.container{width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top:0px;
+    z-index: 111;
+    
+}
+
+.logo{width: 10%;
+height:100px;
+
+color:rgb(66,165,245) ;
+display: flex;
+
+align-items: center;
+}
+
+.navbar{width: 50%;
+height: 100px;
+
+}
+
+.prolog{width: 20%;
+height: 100px;
+
+}
+
+.navbar{
+display: flex;
+align-items: center;
+}
+
+.navlist{
+list-style-type: none;
+
+margin-right:15px;
+
+}
+
+.navlist :hover{color:rgb(66,165,245);}
+
+.navlink{text-decoration: none;color: black;}
+
+.down{color :rgb(41, 37, 37);
+margin-left: 4px;
+margin-bottom: -5px;
+}
+
+.prolog{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.profile{
+display: flex;
+align-items: center;
+gap:10px;
+margin-left: 90px;
+}
+
+.button{padding: 10px 20px 10px 20px;
+     background-color:rgb(66,165,245) ;
+     border-radius: 5px;
+}
+
+.button a{text-decoration: none;
+color: black;}
+
+/*********************************************** 2 Start Header ******************************************/ 
+.container2{width: 100%;
+           height: 120px;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           background-color:rgb(66,165,245) ; 
+           }
+
+.child-container2{width: 80%;
+                  height: 120px;
+                  display: flex;
+                  justify-content:space-between;
+                  align-items: center;
+                  }
+
+.name-view{margin-right:73%;}
+
+.bton{padding: 5px 10px 5px 10px;
+    background-color:rgb(33,150,243) ;
+    color: white;
+    border-radius:2px;
+}
+
+/*********************************************** 2 End Header ******************************************/ 
+
+
+
+/*********************************************** star navbar box ******************************************/ 
+
+/*********************************************** End navbar box ******************************************/ 

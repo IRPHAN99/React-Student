@@ -1,0 +1,27 @@
+
+.nextcard{width: 25%;
+    height: 130px;
+    border: 0.1px solid rgb(202, 183, 183);
+    display: flex;
+    margin: 10px;
+   }
+
+.icon-nextcard{width: 40%;
+         height: 90%;
+         display: flex;
+           justify-content: center;
+           align-items: center;
+           font-size: 50px;
+         }
+
+.title-nextcard{width: 60%;
+          height: 90%;
+          padding: 10px;
+           
+         }
+
+.iconbox{width: 100px;
+         height: 100px;
+         
+         margin: 10px;
+}
